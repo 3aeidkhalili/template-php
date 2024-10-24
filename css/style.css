@@ -1,0 +1,96 @@
+a{
+	text-decoration : none;
+	color : white;
+
+}
+ul{
+	display: inline-block;
+	list-style: none;
+}
+li{
+
+    display: inline;  
+}
+body{
+	margin : 0px;
+	direction : rtl;
+	font-family : Sahel!important;
+	background-image: url("../img/bg.png");
+	
+}
+.navar-menu{
+	width : 100%;
+	height : 50px;
+	background-color : #203239;
+}
+.text-menu{
+	font-size: 30px;
+    margin: -28px 13px 0 0;
+    width: 295px;
+    float: right;
+    height: 50px;
+}
+.list-menu{
+    color: white;
+    font-size: 22px;
+    float: right;
+    margin: -14px 0px 0px 0px;
+}
+.data{
+    width: 220px;
+    float: left;
+    color: white;
+    margin: 15px 0 10px 20px;
+	
+}
+.ulstyle li:hover{
+		background: #a70101;
+		object-fit: cover;
+}
+.ulstyle li:hover a{
+		color: #fff;
+		
+
+}
+.postha{
+    background-color: white;
+    margin: 10px auto;
+    width: 1249px;
+    height: 570px;
+	clear:both;
+}
+.footer{
+	background-color :#203239;
+	width : 100%;
+	height : 50px;
+}
+.postha-text{
+
+}
+.img-postha-text{
+    margin: 6px 36px 0px 0;
+    float: right;
+    width: 212px;
+}
+.p-postha{
+	float: right;
+    margin: 0 12px 0px 0;
+}
+.img-postha-text-php{
+	margin: 6px 9px 0px 0;
+    float: right;
+    width: 210px;
+}
+.input , submit{
+    font-family: Sahel !important;
+    font-size: 14px;
+}
+.from-order{
+height : 200px;
+}
+.form-order-fit{
+	float: right;
+    margin: -7px 45px 0 0;
+
+}
+
